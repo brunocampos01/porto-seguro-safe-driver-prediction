@@ -13,7 +13,7 @@ Click in https://github.com/brunocampos01/porto-seguro-safe-driver-prediction/bl
 
 ### Pre Requirements:
 - Python 3.6 or more 
-- Libraries: Numpy, Pandas, 
+- Libraries: Numpy, Pandas, seaborn, missingno, gc
 
 
 
