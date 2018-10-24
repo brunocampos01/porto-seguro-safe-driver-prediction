@@ -1,12 +1,15 @@
 ![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
 # Porto Seguro Safe's Driver Prediction
+- Random Forest
+- XGBoost
+- Ensemble
 
 ### Quickstart
 Click in https://github.com/brunocampos01/porto-seguro-safe-driver-prediction/blob/master/porto_seguro_safe_driver.ipynb
 
 ### Pre Requirements:
 - Python 3.6 or more 
-- Libraries: Numpy, Pandas, seaborn, missingno, gc
+- Libraries: Numpy, Pandas, seaborn, missingno, gc, xgboost, lightgbm, catboost
 
 ### About
 Nothing ruins the thrill of buying a brand new car more quickly than seeing your new insurance bill. The sting’s even more painful when you know you’re a good driver. It doesn’t seem fair that you have to pay so much if you’ve been cautious on the road for years.
