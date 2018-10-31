@@ -1,5 +1,7 @@
-![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
 # Porto Seguro Safe's Driver Prediction
+![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
+
+Algoritms:
 - Random Forest
 - XGBoost
 - Ensemble
