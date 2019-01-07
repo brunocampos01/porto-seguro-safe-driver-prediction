@@ -17,7 +17,7 @@ Click in https://github.com/brunocampos01/porto-seguro-safe-driver-prediction/bl
 `sudo apt get install git`
 - pip:<br/>
 `sudo apt install python-pip`
--Libraries:<br/>
+- Libraries:<br/>
 `pip install -r requeriments.txt`
 
 ### About
