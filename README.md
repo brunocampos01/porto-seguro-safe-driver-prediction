@@ -10,9 +10,15 @@ Algoritms:
 ### Quickstart
 Click in https://github.com/brunocampos01/porto-seguro-safe-driver-prediction/blob/master/porto_seguro_safe_driver.ipynb
 
-### Pre Requirements:
-- Python 3.6 or more 
-- Libraries: Numpy, Pandas, seaborn, missingno, gc, xgboost, lightgbm, catboost
+## Pre Requeriments
+- Python 3.6 or >:<br/>
+`sudo apt install python3.7`
+- Git (optional):<br/>
+`sudo apt get install git`
+- pip:<br/>
+`sudo apt install python-pip`
+-Libraries:<br/>
+`pip install -r requeriments.txt`
 
 ### About
 Nothing ruins the thrill of buying a brand new car more quickly than seeing your new insurance bill. The sting’s even more painful when you know you’re a good driver. It doesn’t seem fair that you have to pay so much if you’ve been cautious on the road for years.
