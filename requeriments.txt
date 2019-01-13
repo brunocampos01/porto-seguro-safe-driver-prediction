@@ -69,7 +69,7 @@ networkx==2.1
 nltk==3.3
 nose==1.3.7
 notebook==5.7.4
-numba==0.39.0
+numba==0.42.0
 numexpr==2.6.8
 numpy==1.15.1
 numpydoc==0.8.0
@@ -204,7 +204,7 @@ networkx==2.1
 nltk==3.3
 nose==1.3.7
 notebook==5.7.4
-numba==0.39.0
+numba==0.42.0
 numexpr==2.6.8
 numpy==1.15.1
 numpydoc==0.8.0
