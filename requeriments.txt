@@ -5,7 +5,7 @@ anaconda-project==0.8.2
 appdirs==1.4.3
 asn1crypto==0.24.0
 astroid==2.1.0
-astropy==3.1
+astropy==3.1.1
 atomicwrites==1.2.1
 attrs==18.2.0
 Automat==0.7.0
