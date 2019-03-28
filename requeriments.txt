@@ -47,7 +47,7 @@ glob2==0.5
 gmpy2==2.0.8
 greenlet==0.4.12
 grip==4.5.2
-h5py==2.7.0
+h5py==2.9.0
 heapdict==1.0.0
 html5lib==0.999999999
 idna==2.6
