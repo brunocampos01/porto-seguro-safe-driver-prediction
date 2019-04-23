@@ -50,7 +50,7 @@ grip==4.5.2
 h5py==2.7.0
 heapdict==1.0.0
 html5lib==0.999999999
-idna==2.6
+idna==2.8
 imageio==2.2.0
 imagesize==1.1.0
 ipykernel==4.6.1
