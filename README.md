@@ -1,4 +1,5 @@
 # Porto Seguro Safe's Driver Prediction
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1d9c75096915497e9ee7c2617a8d3f6f)](https://app.codacy.com/app/brunocampos01/porto-seguro-safe-driver-prediction?utm_source=github.com&utm_medium=referral&utm_content=brunocampos01/porto-seguro-safe-driver-prediction&utm_campaign=Badge_Grade_Dashboard)
 [![Python 3.7](https://img.shields.io/badge/python-3.7-yellow.svg)](https://www.python.org/downloads/release/python-371/)
 ![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
 
