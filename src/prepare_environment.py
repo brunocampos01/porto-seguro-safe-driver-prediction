@@ -14,19 +14,19 @@ def view_tree_directory():
     print('Structure this project:')
     command = os.popen('tree')
     print(command.read())
-    print(50*'-')
+    print(50 * '-')
 
 
 def save_requirements():
     command = os.popen('bash src/create_requirements.sh')
     print(command.read())
-    print(50*'-')
+    print(50 * '-')
 
 
 def save_config():
     command = os.popen('bash src/check_config_environment.sh')
     print(command.read())
-    print(50*'-')
+    print(50 * '-')
 
 
 def main():
