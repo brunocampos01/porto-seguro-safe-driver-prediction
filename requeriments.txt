@@ -4,7 +4,7 @@ anaconda-navigator==1.6.9
 anaconda-project==0.8.0
 asn1crypto==0.22.0
 astroid==1.5.3
-astropy==2.0.2
+astropy==3.2
 Babel==2.5.0
 backports.shutil-get-terminal-size==1.0.0
 beautifulsoup4==4.7.1
