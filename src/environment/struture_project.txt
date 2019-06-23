@@ -1,0 +1,29 @@
+.
+├── data
+│   ├── datasets.zip
+│   ├── sample_submission.csv
+│   ├── test.csv
+│   └── train.csv
+├── LICENSE
+├── notebooks
+│   └── porto_seguro_safe_driver.ipynb
+├── README.md
+├── requirements.txt
+└── src
+    ├── environment
+    │   ├── config_environment.txt
+    │   ├── create_requirements.sh
+    │   ├── create_virtual_env.sh
+    │   ├── __init__.py
+    │   ├── makefile
+    │   ├── prepare_env.py
+    │   ├── README.md
+    │   ├── show_config_environment.sh
+    │   ├── show_struture_project.sh
+    │   ├── struture_project.txt
+    │   ├── test_environment.py
+    │   └── virtualenv_requirements.txt
+    └── visualization
+        └── plot_config.ini
+
+5 directories, 21 files
