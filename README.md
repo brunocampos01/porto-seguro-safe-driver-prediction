@@ -7,7 +7,7 @@
 ### Quickstart
 https://github.com/brunocampos01/porto-seguro-safe-driver-prediction/blob/master/notebooks/porto_seguro_safe_driver.ipynb
 
-## Pre Requeriments
+## Requeriments
 - Python 3.6 or >:<br/>
 `sudo apt install python3.7`
 - Git (optional):<br/>
