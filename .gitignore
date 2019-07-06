@@ -126,4 +126,5 @@ dmypy.json
 .idea/
 .vscode/*
 /data/raw/train.csv
-!/data/raw/test.csv
+/data/raw/test.csv
+/data/raw/test.csv

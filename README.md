@@ -1,8 +1,9 @@
-# Porto Seguro Safe's Driver Prediction
+# Porto Seguro Safe's Driver Prediction 
+<img src="references/porto-seguro-vector-logo.png" align="right"/>
+
 ![Python 3.6](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue.svg)
 ![License](https://img.shields.io/badge/Code%20License-MIT-green.svg)
 
-<img src="references/porto-seguro-vector-logo.png" align="right" height=auto width=30%>
 
 ## Describe project
 Nothing ruins the thrill of buying a brand new car more quickly than seeing your new insurance bill. The sting’s even more painful when you know you’re a good driver. It doesn’t seem fair that you have to pay so much if you’ve been cautious on the road for years.
