@@ -18,6 +18,9 @@ pipreqs notebooks/ --force --savepath requirements.txt
 # Remove converted files
 rm -rf notebooks/*.py
 
+# Move requirements.txt to src/environment
+mv requirements.txt src/environment
+
 # Show requirements
 echo -e "Requirements this project:\n"
-cat requirements.txt
+cat src/environment/requirements.txt

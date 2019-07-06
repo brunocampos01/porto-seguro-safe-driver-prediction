@@ -1,34 +1,114 @@
 # Porto Seguro Safe's Driver Prediction
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1d9c75096915497e9ee7c2617a8d3f6f)](https://app.codacy.com/app/brunocampos01/porto-seguro-safe-driver-prediction?utm_source=github.com&utm_medium=referral&utm_content=brunocampos01/porto-seguro-safe-driver-prediction&utm_campaign=Badge_Grade_Dashboard)
-[![Python 3.7](https://img.shields.io/badge/python-3.7-yellow.svg)](https://www.python.org/downloads/release/python-371/)
-![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
+![Python 3.6](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue.svg)
+![License](https://img.shields.io/badge/Code%20License-MIT-green.svg)
 
+<img src="references/porto-seguro-vector-logo.png" align="right" height=auto width=30%>
 
-### Quickstart
-https://github.com/brunocampos01/porto-seguro-safe-driver-prediction/blob/master/notebooks/porto_seguro_safe_driver.ipynb
-
-## Requeriments
-- Python 3.6 or >:<br/>
-`sudo apt install python3.7`
-- Git (optional):<br/>
-`sudo apt get install git`
-- pip:<br/>
-`sudo apt install python-pip`
-- Libraries:<br/>
-`pip install -r requeriments.txt`
-
-## Algoritms:
-- Random Forest
-- XGBoost
-- Ensemble
-
-### About
+## Describe project
 Nothing ruins the thrill of buying a brand new car more quickly than seeing your new insurance bill. The sting’s even more painful when you know you’re a good driver. It doesn’t seem fair that you have to pay so much if you’ve been cautious on the road for years.
 
 Porto Seguro, one of Brazil’s largest auto and homeowner insurance companies, completely agrees. Inaccuracies in car insurance company’s claim predictions raise the cost of insurance for good drivers and reduce the price for bad ones.
 
 In this competition, you’re challenged to build a model that predicts the probability that a driver will initiate an auto insurance claim in the next year. While Porto Seguro has used machine learning for the past 20 years, they’re looking to Kaggle’s machine learning community to explore new, more powerful methods. A more accurate prediction will allow them to further tailor their prices, and hopefully make auto insurance coverage more accessible to more drivers.
 
+## Objective
+The objective is use supervised learning technical for understend how severe is an insurance claim.
+
+## Documentation
+The documentation: https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
+
+## Datasource
+The datasource: https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
+
+## Algoritms
+- Random Forest
+- XGBoost
+
+## Quickstart
+1. [Data Exploration Modelind](notebooks/)
+
+## Struture this Project
+```shell script
+.
+├── data
+│   ├── kaggle_submission.csv
+│   └── raw
+│       ├── datasets.zip
+│       ├── sample_submission.csv
+│       ├── test.csv
+│       └── train.csv
+├── LICENSE
+├── notebooks
+│   └── porto_seguro_safe_driver.ipynb
+├── README.md
+├── references
+│   └── porto-seguro-vector-logo.png
+└── src
+    └── environment
+        ├── config_environment.txt
+        ├── container
+        │   └── Dockerfile
+        ├── create_requirements.sh
+        ├── create_virtual_env.sh
+        ├── __init__.py
+        ├── jupyter_notebook_config.py
+        ├── makefile
+        ├── prepare_env.py
+        ├── README.md
+        ├── requirements.txt
+        ├── show_config_environment.sh
+        ├── show_struture_project.sh
+        ├── struture_project.txt
+        ├── test_environment.py
+        ├── venv
+        └── virtualenv_requirements.txt
+
+8 directories, 24 files
+```
+
+## Requirements
+- Python 3.7.3 or more
+```sh
+sudo apt-get install Python3.7.3
+```
+
+- pip
+```
+sudo apt-get install python3-pip
+```
+
+- Python Virtual Environment
+```sh
+pip3 install --user virtualenv==16.6.0
+```
+
+- Git
+```sh
+sudo apt-get install git
+```
+
+## Running
+1. Clone this repository
+```sh
+git clone https://github.com/brunocampos01/challenge-keyrus
+cd challenge-keyrus
+```
+
+2. Choose which environment to running
+ - [local](src/environment/README.md)
+ - [virtual environment](src/environment/README.md)
+ - [container](src/environment/README.md)
+
+3. In terminal running command `jupyter-notebook` and navigate in this repository: `notebooks`
+
+##### NOTES
+- All the development was done using **virtualenv**. 
+- To learn more about the environment that has been developed, access the file [config_environment.txt](src/environment/config_environment.txt)
 
 ---
+
+## Author
+- Bruno Aurélio Rôzza de Moura Campos (brunocampos01@gmail.com)
+
+## Copyright
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Bruno A. R. M. Campos</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

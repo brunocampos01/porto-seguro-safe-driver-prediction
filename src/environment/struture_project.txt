@@ -1,29 +1,35 @@
 .
 ├── data
-│   ├── datasets.zip
-│   ├── sample_submission.csv
-│   ├── test.csv
-│   └── train.csv
+│   ├── kaggle_submission.csv
+│   └── raw
+│       ├── datasets.zip
+│       ├── sample_submission.csv
+│       ├── test.csv
+│       └── train.csv
 ├── LICENSE
 ├── notebooks
 │   └── porto_seguro_safe_driver.ipynb
 ├── README.md
-├── requirements.txt
+├── references
+│   └── porto-seguro-vector-logo.png
 └── src
-    ├── environment
-    │   ├── config_environment.txt
-    │   ├── create_requirements.sh
-    │   ├── create_virtual_env.sh
-    │   ├── __init__.py
-    │   ├── makefile
-    │   ├── prepare_env.py
-    │   ├── README.md
-    │   ├── show_config_environment.sh
-    │   ├── show_struture_project.sh
-    │   ├── struture_project.txt
-    │   ├── test_environment.py
-    │   └── virtualenv_requirements.txt
-    └── visualization
-        └── plot_config.ini
+    └── environment
+        ├── config_environment.txt
+        ├── container
+        │   └── Dockerfile
+        ├── create_requirements.sh
+        ├── create_virtual_env.sh
+        ├── __init__.py
+        ├── jupyter_notebook_config.py
+        ├── makefile
+        ├── prepare_env.py
+        ├── README.md
+        ├── requirements.txt
+        ├── show_config_environment.sh
+        ├── show_struture_project.sh
+        ├── struture_project.txt
+        ├── test_environment.py
+        ├── venv
+        └── virtualenv_requirements.txt
 
-5 directories, 21 files
+8 directories, 24 files

@@ -9,29 +9,20 @@ Python Version:
 Python 3.7.3
 
 Pip Version:
-pip 19.1.1 from /home/campos/projetos/venv_global/lib/python3.7/site-packages/pip (python 3.7)
+pip 19.1.1 from /home/campos/projetos/challenges/kaggle/porto-seguro-safe-driver-prediction/src/environment/venv/lib/python3.7/site-packages/pip (python 3.7)
 
 Jupyter Version:
-jupyter core     : 4.5.0
-jupyter-notebook : 5.7.8
-qtconsole        : 4.5.1
-ipython          : 7.5.0
-ipykernel        : 5.1.1
-jupyter client   : 5.2.4
-jupyter lab      : not installed
-nbconvert        : 5.5.0
-ipywidgets       : 7.4.2
-nbformat         : 4.4.0
-traitlets        : 4.3.2
+4.4.0
 
 --------------------------------------------------
 
 Disk Usage:
 
 data:
-359M	data/
+383M	data/
 
 virtual env:
+736M	src/environment/venv/
 
 all:
-439M	.
+1,3G	.

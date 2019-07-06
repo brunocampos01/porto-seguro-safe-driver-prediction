@@ -23,3 +23,7 @@ def main():
     save_requirements()
     save_config()
     save_tree_directory()
+
+
+if __name__ == '__main__':
+    main()

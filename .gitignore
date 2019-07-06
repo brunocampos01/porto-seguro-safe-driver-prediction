@@ -125,3 +125,5 @@ dmypy.json
 # IDE, text editor
 .idea/
 .vscode/*
+/data/raw/train.csv
+!/data/raw/test.csv
