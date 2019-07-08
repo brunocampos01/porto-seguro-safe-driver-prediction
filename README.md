@@ -26,7 +26,7 @@ The datasource: https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 - XGBoost
 
 ## Quickstart
-1. [Data Exploration Modelind](notebooks/)
+1. [Data Exploration and Modeling](notebooks/)
 
 ## Struture this Project
 ```shell script
