@@ -1,7 +1,7 @@
 # Porto Seguro Safe's Driver Prediction 
 <img src="references/porto-seguro-vector-logo.png" align="right"/>
 
-![Python 3.6](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue.svg)
+![Python 3](https://img.shields.io/badge/Python-3-blue.svg)
 ![License](https://img.shields.io/badge/Code%20License-MIT-green.svg)
 
 
