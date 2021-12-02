@@ -68,25 +68,14 @@ The datasource: https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 ```
 
 ## Requirements
-- Python 3.7.3 or more
-```sh
-sudo apt-get install Python3.7.3
-```
+This project is tested with:
 
-- pip
-```
-sudo apt-get install python3-pip
-```
+| Requisite      | Version  |
+|----------------|----------|
+| Python         | 3.9.7    |
+| Pip            | 21.2.4   |
 
-- Python Virtual Environment
-```sh
-pip3 install --user virtualenv==16.6.0
-```
-
-- Git
-```sh
-sudo apt-get install git
-```
+I recommend using Python [venv](https://github.com/brunocampos01/becoming-a-expert-python#virtual-environment).
 
 ## Running
 1. Clone this repository
