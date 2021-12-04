@@ -22,7 +22,7 @@ Kaggle competition: [Porto Seguro Safe Driver Prediction](https://www.kaggle.com
 - XGBoost
 
 ## Quickstart
-1. [Data Exploration and Modeling](notebooks/)
+- [Data Exploration and Modeling](notebooks/)
 
 ## Requirements
 This project is tested with:
