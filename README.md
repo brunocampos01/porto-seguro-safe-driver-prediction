@@ -34,6 +34,12 @@ This project is tested with:
 
 I recommend using Python [venv](https://github.com/brunocampos01/becoming-a-expert-python#virtual-environment).
 
+
+#### Install Libraries
+```
+pip install --require-hashes -r requirements.txt
+```
+
 ---
 
 <p  align="left">
